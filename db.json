@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "493a",
+      "email": "real@gmail.com",
+      "password": "secret",
+      "createdOn": "2025-03-17T09:18:31.776Z"
+    },
+    {
+      "id": "305a",
+      "email": "tom@gmail.com",
+      "password": "secret",
+      "createdOn": "2025-03-17T09:25:03.914Z"
+    },
+    {
+      "id": "7b1c",
+      "email": "akr@gmail.com",
+      "password": "secret",
+      "createdOn": "2025-03-17T17:12:22.848Z"
+    },
+    {
+      "id": "108d",
+      "email": "abhijeetsinh@gmail.com",
+      "password": "secret",
+      "createdOn": "2025-03-25T09:30:39.466Z"
+    }
+  ],
+  "todos": [
+    {
+      "id": "069d",
+      "title": "some task 1",
+      "description": "description",
+      "attachment": [],
+      "date": "03-26-2025",
+      "category": "Personal",
+      "status": "InProgress",
+      "userId": "493a"
+    },
+    {
+      "id": "078d",
+      "title": "Deployed to Netlify ⭐",
+      "description": "This is from Netlify and successfully deployed ✨\nhttps://task-tracker-ai.netlify.app/",
+      "attachment": [],
+      "date": "03-26-2025",
+      "category": "Personal",
+      "status": "InProgress",
+      "userId": "108d"
+    },
+    {
+      "id": "eaad",
+      "title": "Deploy to Netlify with Github",
+      "description": "This is only the demo and need to add GitHub repo with Netlify!",
+      "attachment": [],
+      "date": "03-27-2025",
+      "category": "Personal",
+      "status": "Todo",
+      "userId": "108d"
+    },
+    {
+      "id": "3822",
+      "title": "this is the time",
+      "description": "",
+      "attachment": [],
+      "date": "03-25-2025",
+      "category": "Work",
+      "status": "Todo",
+      "userId": "7b1c"
+    }
+  ],
+  "profile": [
+    {
+      "id": "e792",
+      "userId": "493a",
+      "uploadedAt": "2025-03-17T18:42:41.253Z"
+    },
+    {
+      "id": "2cb8",
+      "uploadedAt": "2025-03-27T11:19:12.451Z",
+      "userId": "305a"
+    },
+    {
+      "id": "ad57",
+      "uploadedAt": "2025-03-27T12:41:39.667Z",
+      "userId": "7b1c"
+    },
+    {
+      "id": "019a",
+      "uploadedAt": "2025-03-27T11:46:32.959Z",
+      "userId": "108d"
+    }
+  ]
+}
